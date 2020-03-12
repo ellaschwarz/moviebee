@@ -1,0 +1,1094 @@
+# Copyright (C) 2020 rate-my-post
+# This file is distributed under the same license as the rate-my-post package.
+msgid ""
+msgstr ""
+"Project-Id-Version: rate-my-post\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: admin/class-rate-my-post-admin.php:54, rate-my-post/admin/class-rate-my-post-admin.php:54
+msgid "Saving"
+msgstr ""
+
+#: admin/class-rate-my-post-admin.php:55, rate-my-post/admin/class-rate-my-post-admin.php:55
+msgid "Are your sure you want to reset the settings?"
+msgstr ""
+
+#: admin/class-rate-my-post-admin.php:84, admin/class-rate-my-post-admin.php:150, admin/class-rate-my-post-admin.php:318, admin/class-rate-my-post-admin.php:412, admin/class-rate-my-post-admin.php:503, rate-my-post/admin/class-rate-my-post-admin.php:84, rate-my-post/admin/class-rate-my-post-admin.php:150, rate-my-post/admin/class-rate-my-post-admin.php:318, rate-my-post/admin/class-rate-my-post-admin.php:412, rate-my-post/admin/class-rate-my-post-admin.php:503
+msgid "Successfully Saved!"
+msgstr ""
+
+#: admin/class-rate-my-post-admin.php:108, admin/class-rate-my-post-admin.php:160, admin/class-rate-my-post-admin.php:199, admin/class-rate-my-post-admin.php:237, admin/class-rate-my-post-admin.php:287, admin/class-rate-my-post-admin.php:329, admin/class-rate-my-post-admin.php:383, admin/class-rate-my-post-admin.php:423, admin/class-rate-my-post-admin.php:474, admin/class-rate-my-post-admin.php:514, admin/class-rate-my-post-admin.php:585, rate-my-post/admin/class-rate-my-post-admin.php:108, rate-my-post/admin/class-rate-my-post-admin.php:160, rate-my-post/admin/class-rate-my-post-admin.php:199, rate-my-post/admin/class-rate-my-post-admin.php:237, rate-my-post/admin/class-rate-my-post-admin.php:287, rate-my-post/admin/class-rate-my-post-admin.php:329, rate-my-post/admin/class-rate-my-post-admin.php:383, rate-my-post/admin/class-rate-my-post-admin.php:423, rate-my-post/admin/class-rate-my-post-admin.php:474, rate-my-post/admin/class-rate-my-post-admin.php:514, rate-my-post/admin/class-rate-my-post-admin.php:585
+msgid "You do not have adequate permissions for this action!"
+msgstr ""
+
+#: admin/class-rate-my-post-admin.php:113, admin/class-rate-my-post-admin.php:165, admin/class-rate-my-post-admin.php:203, admin/class-rate-my-post-admin.php:242, admin/class-rate-my-post-admin.php:334, admin/class-rate-my-post-admin.php:388, admin/class-rate-my-post-admin.php:428, admin/class-rate-my-post-admin.php:479, admin/class-rate-my-post-admin.php:519, admin/class-rate-my-post-admin.php:590, public/class-rate-my-post-public.php:1023, rate-my-post/admin/class-rate-my-post-admin.php:113, rate-my-post/admin/class-rate-my-post-admin.php:165, rate-my-post/admin/class-rate-my-post-admin.php:203, rate-my-post/admin/class-rate-my-post-admin.php:242, rate-my-post/admin/class-rate-my-post-admin.php:334, rate-my-post/admin/class-rate-my-post-admin.php:388, rate-my-post/admin/class-rate-my-post-admin.php:428, rate-my-post/admin/class-rate-my-post-admin.php:479, rate-my-post/admin/class-rate-my-post-admin.php:519, rate-my-post/admin/class-rate-my-post-admin.php:590, rate-my-post/public/class-rate-my-post-public.php:1023
+msgid "Invalid nonce!"
+msgstr ""
+
+#: admin/class-rate-my-post-admin.php:118, rate-my-post/admin/class-rate-my-post-admin.php:118
+msgid "Invalid vote count or average rating!"
+msgstr ""
+
+#: admin/class-rate-my-post-admin.php:190, rate-my-post/admin/class-rate-my-post-admin.php:190
+msgid "Feedback successfully deleted!"
+msgstr ""
+
+#: admin/class-rate-my-post-admin.php:274, admin/templates/menu.php:27, rate-my-post/admin/class-rate-my-post-admin.php:274, rate-my-post/admin/templates/menu.php:27
+msgid "Settings"
+msgstr ""
+
+#: admin/class-rate-my-post-admin.php:276, rate-my-post/admin/class-rate-my-post-admin.php:276
+msgid "Stats"
+msgstr ""
+
+#: admin/class-rate-my-post-admin.php:278, rate-my-post/admin/class-rate-my-post-admin.php:278
+msgid "Analytics"
+msgstr ""
+
+#: admin/class-rate-my-post-admin.php:359, admin/class-rate-my-post-admin.php:449, admin/class-rate-my-post-admin.php:540, rate-my-post/admin/class-rate-my-post-admin.php:359, rate-my-post/admin/class-rate-my-post-admin.php:449, rate-my-post/admin/class-rate-my-post-admin.php:540
+msgid "Settings Partially Saved. Unable to save: "
+msgstr ""
+
+#: admin/class-rate-my-post-admin.php:359, admin/class-rate-my-post-admin.php:449, admin/class-rate-my-post-admin.php:540, rate-my-post/admin/class-rate-my-post-admin.php:359, rate-my-post/admin/class-rate-my-post-admin.php:449, rate-my-post/admin/class-rate-my-post-admin.php:540
+msgid "Try clearing all caches, especially your browser cache!"
+msgstr ""
+
+#: admin/class-rate-my-post-admin.php:375, admin/class-rate-my-post-admin.php:466, rate-my-post/admin/class-rate-my-post-admin.php:375, rate-my-post/admin/class-rate-my-post-admin.php:466
+msgid "Settings Reset Done"
+msgstr ""
+
+#: admin/class-rate-my-post-admin.php:609, rate-my-post/admin/class-rate-my-post-admin.php:609
+msgid "No rating plugin found! Migration is not possible!"
+msgstr ""
+
+#: admin/class-rate-my-post-admin.php:619, rate-my-post/admin/class-rate-my-post-admin.php:619
+msgid "Migration successful! Number of posts affected"
+msgstr ""
+
+#: admin/class-rate-my-post-admin.php:621, rate-my-post/admin/class-rate-my-post-admin.php:621
+msgid "No existing ratings found! Nothing to migrate!"
+msgstr ""
+
+#: admin/class-rate-my-post-admin.php:734, admin/class-rate-my-post-admin.php:749, rate-my-post/admin/class-rate-my-post-admin.php:734, rate-my-post/admin/class-rate-my-post-admin.php:749
+msgid "Tracking Disabled"
+msgstr ""
+
+#: admin/class-rate-my-post-admin.php:744, rate-my-post/admin/class-rate-my-post-admin.php:744
+msgid "Not logged in"
+msgstr ""
+
+#: admin/templates/analytics.php:26, rate-my-post/admin/templates/analytics.php:26
+msgid "Rate my Post Analytics"
+msgstr ""
+
+#: admin/templates/analytics.php:29, rate-my-post/admin/templates/analytics.php:29
+msgid "Here you can see the details about the last 100 votes on your website."
+msgstr ""
+
+#: admin/templates/analytics.php:36, admin/templates/meta-box.php:87, rate-my-post/admin/templates/analytics.php:36, rate-my-post/admin/templates/meta-box.php:87
+msgid "ID"
+msgstr ""
+
+#: admin/templates/analytics.php:39, admin/templates/meta-box.php:82, rate-my-post/admin/templates/analytics.php:39, rate-my-post/admin/templates/meta-box.php:82
+msgid "Time"
+msgstr ""
+
+#: admin/templates/analytics.php:44, rate-my-post/admin/templates/analytics.php:44
+msgid "IP"
+msgstr ""
+
+#: admin/templates/analytics.php:47, rate-my-post/admin/templates/analytics.php:47
+msgid "Shows IP address if enabled in the security options."
+msgstr ""
+
+#: admin/templates/analytics.php:54, admin/templates/meta-box.php:97, rate-my-post/admin/templates/analytics.php:54, rate-my-post/admin/templates/meta-box.php:97
+msgid "User"
+msgstr ""
+
+#: admin/templates/analytics.php:57, admin/templates/meta-box.php:100, rate-my-post/admin/templates/analytics.php:57, rate-my-post/admin/templates/meta-box.php:100
+msgid "Shows username if visitor was logged in and tracking is enabled in the security options."
+msgstr ""
+
+#: admin/templates/analytics.php:61, rate-my-post/admin/templates/analytics.php:61
+msgid "Post"
+msgstr ""
+
+#: admin/templates/analytics.php:65, rate-my-post/admin/templates/analytics.php:65
+msgid "Duration"
+msgstr ""
+
+#: admin/templates/analytics.php:68, rate-my-post/admin/templates/analytics.php:68
+msgid "Shows time spent on page before the rating was submitted."
+msgstr ""
+
+#: admin/templates/analytics.php:73, admin/templates/meta-box.php:45, admin/templates/stats.php:34, rate-my-post/admin/templates/analytics.php:73, rate-my-post/admin/templates/meta-box.php:45, rate-my-post/admin/templates/stats.php:34
+msgid "Average Rating"
+msgstr ""
+
+#: admin/templates/analytics.php:76, rate-my-post/admin/templates/analytics.php:76
+msgid "Total Votes"
+msgstr ""
+
+#: admin/templates/analytics.php:79, rate-my-post/admin/templates/analytics.php:79
+msgid "Rated"
+msgstr ""
+
+#: admin/templates/menu-about.php:22, rate-my-post/admin/templates/menu-about.php:22
+msgid "About Plugin"
+msgstr ""
+
+#: admin/templates/menu-about.php:27, rate-my-post/admin/templates/menu-about.php:27
+msgid "Hi there,%s Thank you for installing Rate my Post plugin. If you like the plugin please rate it %shere%s - it will take you 5 minutes (less if you are already registered on WordPress) and it means a lot to me since I made this plugin completely for free. If you encounter problems with the plugin, let me know in the %ssupport forum%s. I hope you will enjoy the plugin. %s %s Best regards,%s %s - the developer of Rate my Post plugin"
+msgstr ""
+
+#: admin/templates/menu-about.php:32, rate-my-post/admin/templates/menu-about.php:32
+msgid "My Website"
+msgstr ""
+
+#: admin/templates/menu-about.php:35, rate-my-post/admin/templates/menu-about.php:35
+msgid "Documentation"
+msgstr ""
+
+#: admin/templates/menu-about.php:38, rate-my-post/admin/templates/menu-about.php:38
+msgid "Please do read the documentation before posting in the support forum."
+msgstr ""
+
+#: admin/templates/menu-about.php:44, rate-my-post/admin/templates/menu-about.php:44
+msgid "Donate"
+msgstr ""
+
+#: admin/templates/menu-about.php:47, rate-my-post/admin/templates/menu-about.php:47
+msgid "Become a supporter and ensure further development of the plugin!"
+msgstr ""
+
+#: admin/templates/menu-alerts.php:30, rate-my-post/admin/templates/menu-alerts.php:30
+msgid "You need to be logged in as administrator to save settings for Rate my Post plugin"
+msgstr ""
+
+#: admin/templates/menu-alerts.php:38, rate-my-post/admin/templates/menu-alerts.php:38
+msgid "Rate my Post requires WordPress version 4.7.0 or higher. Please update your WordPress"
+msgstr ""
+
+#: admin/templates/menu-alerts.php:46, rate-my-post/admin/templates/menu-alerts.php:46
+msgid "We detected a caching system. It is recommended that you enable Ajax Load in the advanced settings for better user experience."
+msgstr ""
+
+#: admin/templates/menu-alerts.php:54, rate-my-post/admin/templates/menu-alerts.php:54
+msgid "reCaptcha is not configured correctly. Make sure you have inserted secret and site key in the security options"
+msgstr ""
+
+#: admin/templates/menu-customize.php:24, rate-my-post/admin/templates/menu-customize.php:24
+msgid "Tip: First enable delete cookie on page load in settings. Add shortcode [ratemypost] to one of your posts and open it in the preview mode. Then custmize this plugin to your liking - after saving settings reload the post in the preview mode to see the changes you have made. After testing you can reset the ratings in meta box in edit post."
+msgstr ""
+
+#: admin/templates/menu-customize.php:29, rate-my-post/admin/templates/menu-customize.php:29
+msgid "Strings - Rating Widget"
+msgstr ""
+
+#: admin/templates/menu-customize.php:36, admin/templates/menu-customize.php:225, admin/templates/menu-customize.php:259, admin/templates/stats.php:32, rate-my-post/admin/templates/menu-customize.php:36, rate-my-post/admin/templates/menu-customize.php:225, rate-my-post/admin/templates/menu-customize.php:259, rate-my-post/admin/templates/stats.php:32
+msgid "Title"
+msgstr ""
+
+#: admin/templates/menu-customize.php:39, admin/templates/menu-customize.php:54, rate-my-post/admin/templates/menu-customize.php:39, rate-my-post/admin/templates/menu-customize.php:54
+msgid "Leave empty to disable"
+msgstr ""
+
+#: admin/templates/menu-customize.php:51, admin/templates/menu-customize.php:237, admin/templates/menu-customize.php:270, rate-my-post/admin/templates/menu-customize.php:51, rate-my-post/admin/templates/menu-customize.php:237, rate-my-post/admin/templates/menu-customize.php:270
+msgid "Subtitle"
+msgstr ""
+
+#: admin/templates/menu-customize.php:68, rate-my-post/admin/templates/menu-customize.php:68
+msgid "Result text - average rating"
+msgstr ""
+
+#: admin/templates/menu-customize.php:80, rate-my-post/admin/templates/menu-customize.php:80
+msgid "Result text - vote count"
+msgstr ""
+
+#: admin/templates/menu-customize.php:94, rate-my-post/admin/templates/menu-customize.php:94
+msgid "Text if somebody tries to vote twice"
+msgstr ""
+
+#: admin/templates/menu-customize.php:106, rate-my-post/admin/templates/menu-customize.php:106
+msgid "Result text if no votes"
+msgstr ""
+
+#: admin/templates/menu-customize.php:120, rate-my-post/admin/templates/menu-customize.php:120
+msgid "Text after vote"
+msgstr ""
+
+#: admin/templates/menu-customize.php:132, rate-my-post/admin/templates/menu-customize.php:132
+msgid "One star hover text"
+msgstr ""
+
+#: admin/templates/menu-customize.php:145, rate-my-post/admin/templates/menu-customize.php:145
+msgid "Two stars hover text"
+msgstr ""
+
+#: admin/templates/menu-customize.php:155, rate-my-post/admin/templates/menu-customize.php:155
+msgid "Three stars hover text"
+msgstr ""
+
+#: admin/templates/menu-customize.php:167, rate-my-post/admin/templates/menu-customize.php:167
+msgid "Four stars hover text"
+msgstr ""
+
+#: admin/templates/menu-customize.php:177, rate-my-post/admin/templates/menu-customize.php:177
+msgid "Five stars hover text"
+msgstr ""
+
+#: admin/templates/menu-customize.php:189, rate-my-post/admin/templates/menu-customize.php:189
+msgid "Submit rating button text"
+msgstr ""
+
+#: admin/templates/menu-customize.php:201, rate-my-post/admin/templates/menu-customize.php:201
+msgid "Custom results text"
+msgstr ""
+
+#: admin/templates/menu-customize.php:210, rate-my-post/admin/templates/menu-customize.php:210
+msgid "Replace the generic vote count and average rating text under the stars. Use {{votecount}} for number of votes and {{avgrating}} for average rating. Leave empty for default. This feature does not work in the multilingual website compatibility mode."
+msgstr ""
+
+#: admin/templates/menu-customize.php:219, rate-my-post/admin/templates/menu-customize.php:219
+msgid "Strings - Social Widget"
+msgstr ""
+
+#: admin/templates/menu-customize.php:253, rate-my-post/admin/templates/menu-customize.php:253
+msgid "Strings - Feedback Widget"
+msgstr ""
+
+#: admin/templates/menu-customize.php:283, rate-my-post/admin/templates/menu-customize.php:283
+msgid "Text"
+msgstr ""
+
+#: admin/templates/menu-customize.php:295, rate-my-post/admin/templates/menu-customize.php:295
+msgid "Text after sending feedback"
+msgstr ""
+
+#: admin/templates/menu-customize.php:309, rate-my-post/admin/templates/menu-customize.php:309
+msgid "Feedback button text"
+msgstr ""
+
+#: admin/templates/menu-customize.php:321, rate-my-post/admin/templates/menu-customize.php:321
+msgid "Text if feedback is empty"
+msgstr ""
+
+#: admin/templates/menu-customize.php:339, rate-my-post/admin/templates/menu-customize.php:339
+msgid "Style - Global"
+msgstr ""
+
+#: admin/templates/menu-customize.php:343, rate-my-post/admin/templates/menu-customize.php:343
+msgid "Leave empty for default style."
+msgstr ""
+
+#: admin/templates/menu-customize.php:346, rate-my-post/admin/templates/menu-customize.php:346
+msgid "Insert hexadecimal colors - for example, #ff0000 for red. You can use"
+msgstr ""
+
+#: admin/templates/menu-customize.php:353, rate-my-post/admin/templates/menu-customize.php:353
+msgid "Title Font Size"
+msgstr ""
+
+#: admin/templates/menu-customize.php:356, admin/templates/menu-customize.php:369, admin/templates/menu-customize.php:382, admin/templates/menu-customize.php:397, admin/templates/menu-customize.php:410, admin/templates/menu-customize.php:423, admin/templates/menu-customize.php:438, admin/templates/menu-customize.php:451, admin/templates/menu-customize.php:464, admin/templates/menu-customize.php:486, admin/templates/menu-customize.php:499, admin/templates/menu-customize.php:512, admin/templates/menu-customize.php:527, admin/templates/menu-customize.php:540, admin/templates/menu-customize.php:553, admin/templates/menu-customize.php:575, rate-my-post/admin/templates/menu-customize.php:356, rate-my-post/admin/templates/menu-customize.php:369, rate-my-post/admin/templates/menu-customize.php:382, rate-my-post/admin/templates/menu-customize.php:397, rate-my-post/admin/templates/menu-customize.php:410, rate-my-post/admin/templates/menu-customize.php:423, rate-my-post/admin/templates/menu-customize.php:438, rate-my-post/admin/templates/menu-customize.php:451, rate-my-post/admin/templates/menu-customize.php:464, rate-my-post/admin/templates/menu-customize.php:486, rate-my-post/admin/templates/menu-customize.php:499, rate-my-post/admin/templates/menu-customize.php:512, rate-my-post/admin/templates/menu-customize.php:527, rate-my-post/admin/templates/menu-customize.php:540, rate-my-post/admin/templates/menu-customize.php:553, rate-my-post/admin/templates/menu-customize.php:575
+msgid "Default"
+msgstr ""
+
+#: admin/templates/menu-customize.php:366, rate-my-post/admin/templates/menu-customize.php:366
+msgid "Subtitle Font Size"
+msgstr ""
+
+#: admin/templates/menu-customize.php:379, rate-my-post/admin/templates/menu-customize.php:379
+msgid "Text Font Size"
+msgstr ""
+
+#: admin/templates/menu-customize.php:394, rate-my-post/admin/templates/menu-customize.php:394
+msgid "Title Bottom Margin"
+msgstr ""
+
+#: admin/templates/menu-customize.php:407, rate-my-post/admin/templates/menu-customize.php:407
+msgid "Subtitle Bottom Margin"
+msgstr ""
+
+#: admin/templates/menu-customize.php:420, rate-my-post/admin/templates/menu-customize.php:420
+msgid "Border Width"
+msgstr ""
+
+#: admin/templates/menu-customize.php:435, rate-my-post/admin/templates/menu-customize.php:435
+msgid "Border Radius"
+msgstr ""
+
+#: admin/templates/menu-customize.php:448, rate-my-post/admin/templates/menu-customize.php:448
+msgid "Border Color"
+msgstr ""
+
+#: admin/templates/menu-customize.php:461, rate-my-post/admin/templates/menu-customize.php:461
+msgid "Background Color"
+msgstr ""
+
+#: admin/templates/menu-customize.php:476, rate-my-post/admin/templates/menu-customize.php:476
+msgid "Style - Rating Widget"
+msgstr ""
+
+#: admin/templates/menu-customize.php:483, rate-my-post/admin/templates/menu-customize.php:483
+msgid "Icon Size"
+msgstr ""
+
+#: admin/templates/menu-customize.php:496, rate-my-post/admin/templates/menu-customize.php:496
+msgid "Results Color"
+msgstr ""
+
+#: admin/templates/menu-customize.php:509, rate-my-post/admin/templates/menu-customize.php:509
+msgid "Hover Color"
+msgstr ""
+
+#: admin/templates/menu-customize.php:524, rate-my-post/admin/templates/menu-customize.php:524
+msgid "Rated Color"
+msgstr ""
+
+#: admin/templates/menu-customize.php:537, rate-my-post/admin/templates/menu-customize.php:537
+msgid "Highlight Color"
+msgstr ""
+
+#: admin/templates/menu-customize.php:550, rate-my-post/admin/templates/menu-customize.php:550
+msgid "Icon Margin"
+msgstr ""
+
+#: admin/templates/menu-customize.php:565, rate-my-post/admin/templates/menu-customize.php:565
+msgid "Style - Social Widget"
+msgstr ""
+
+#: admin/templates/menu-customize.php:572, rate-my-post/admin/templates/menu-customize.php:572
+msgid "Social Icon Size"
+msgstr ""
+
+#: admin/templates/menu-customize.php:589, rate-my-post/admin/templates/menu-customize.php:589
+msgid "Note: If you are using a cache plugin, clear page cache after saving customization options."
+msgstr ""
+
+#: admin/templates/menu-customize.php:593, admin/templates/menu-customize.php:604, rate-my-post/admin/templates/menu-customize.php:593, rate-my-post/admin/templates/menu-customize.php:604
+msgid "Save Customization Options"
+msgstr ""
+
+#: admin/templates/menu-customize.php:597, rate-my-post/admin/templates/menu-customize.php:597
+msgid "Reset Customization Options"
+msgstr ""
+
+#: admin/templates/menu-migration.php:22, admin/templates/menu.php:36, rate-my-post/admin/templates/menu-migration.php:22, rate-my-post/admin/templates/menu.php:36
+msgid "Migration Tools"
+msgstr ""
+
+#: admin/templates/menu-migration.php:26, rate-my-post/admin/templates/menu-migration.php:26
+msgid "The plugin allows you to easily migrate ratings from the following plugins: %s. More rating plugins will be supported in the future. You can submit requests on the %ssupport forum%s."
+msgstr ""
+
+#: admin/templates/menu-migration.php:31, rate-my-post/admin/templates/menu-migration.php:31
+msgid "Detected Rating Plugin"
+msgstr ""
+
+#: admin/templates/menu-migration.php:40, rate-my-post/admin/templates/menu-migration.php:40
+msgid "Note: If you already used Rate my Post plugin, the Rate my Post ratings will be overwritten during the migration!"
+msgstr ""
+
+#: admin/templates/menu-migration.php:43, rate-my-post/admin/templates/menu-migration.php:43
+msgid "Start Migration"
+msgstr ""
+
+#: admin/templates/menu-migration.php:50, rate-my-post/admin/templates/menu-migration.php:50
+msgid "No rating plugin found. Migration is not possible."
+msgstr ""
+
+#: admin/templates/menu-options.php:24, rate-my-post/admin/templates/menu-options.php:24
+msgid "Rating Widget Settings"
+msgstr ""
+
+#: admin/templates/menu-options.php:32, rate-my-post/admin/templates/menu-options.php:32
+msgid "Type of rating widget"
+msgstr ""
+
+#: admin/templates/menu-options.php:36, rate-my-post/admin/templates/menu-options.php:36
+msgid "Stars"
+msgstr ""
+
+#: admin/templates/menu-options.php:39, rate-my-post/admin/templates/menu-options.php:39
+msgid "Thumbs"
+msgstr ""
+
+#: admin/templates/menu-options.php:42, rate-my-post/admin/templates/menu-options.php:42
+msgid "Hearts"
+msgstr ""
+
+#: admin/templates/menu-options.php:45, rate-my-post/admin/templates/menu-options.php:45
+msgid "Smileys"
+msgstr ""
+
+#: admin/templates/menu-options.php:48, rate-my-post/admin/templates/menu-options.php:48
+msgid "Trophies"
+msgstr ""
+
+#: admin/templates/menu-options.php:52, rate-my-post/admin/templates/menu-options.php:52
+msgid "Rate my Post supports the following icons: Stars, thumbs and hearts"
+msgstr ""
+
+#: admin/templates/menu-options.php:57, rate-my-post/admin/templates/menu-options.php:57
+msgid "Rating widget alignment"
+msgstr ""
+
+#: admin/templates/menu-options.php:61, rate-my-post/admin/templates/menu-options.php:61
+msgid "Center"
+msgstr ""
+
+#: admin/templates/menu-options.php:64, rate-my-post/admin/templates/menu-options.php:64
+msgid "Left"
+msgstr ""
+
+#: admin/templates/menu-options.php:67, rate-my-post/admin/templates/menu-options.php:67
+msgid "Right"
+msgstr ""
+
+#: admin/templates/menu-options.php:71, rate-my-post/admin/templates/menu-options.php:71
+msgid "You can align the widget left, right or center"
+msgstr ""
+
+#: admin/templates/menu-options.php:88, rate-my-post/admin/templates/menu-options.php:88
+msgid "Add rating widget to all posts"
+msgstr ""
+
+#: admin/templates/menu-options.php:91, rate-my-post/admin/templates/menu-options.php:91
+msgid "Automatically adds rating widget to all your posts, after the content."
+msgstr ""
+
+#: admin/templates/menu-options.php:103, rate-my-post/admin/templates/menu-options.php:103
+msgid "Add rating widget to all pages"
+msgstr ""
+
+#: admin/templates/menu-options.php:106, rate-my-post/admin/templates/menu-options.php:106
+msgid "Automatically adds rating widget to all your pages, after the content."
+msgstr ""
+
+#: admin/templates/menu-options.php:121, rate-my-post/admin/templates/menu-options.php:121
+msgid "Add result widget to all posts"
+msgstr ""
+
+#: admin/templates/menu-options.php:124, rate-my-post/admin/templates/menu-options.php:124
+msgid "Automatically adds result widget to all your posts, before the content."
+msgstr ""
+
+#: admin/templates/menu-options.php:136, rate-my-post/admin/templates/menu-options.php:136
+msgid "Add result widget to all pages"
+msgstr ""
+
+#: admin/templates/menu-options.php:139, rate-my-post/admin/templates/menu-options.php:139
+msgid "Automatically adds result widget to all your pages, before the content."
+msgstr ""
+
+#: admin/templates/menu-options.php:154, rate-my-post/admin/templates/menu-options.php:154
+msgid "Send me email whenever post gets rated"
+msgstr ""
+
+#: admin/templates/menu-options.php:157, rate-my-post/admin/templates/menu-options.php:157
+msgid "You will get an email whenever somebody rates your post or page"
+msgstr ""
+
+#: admin/templates/menu-options.php:169, rate-my-post/admin/templates/menu-options.php:169
+msgid "Show star hover texts"
+msgstr ""
+
+#: admin/templates/menu-options.php:172, rate-my-post/admin/templates/menu-options.php:172
+msgid "When a visitor hovers over a star, a descriptive rating will be shown under the stars"
+msgstr ""
+
+#: admin/templates/menu-options.php:187, rate-my-post/admin/templates/menu-options.php:187
+msgid "Prevent accidental votes"
+msgstr ""
+
+#: admin/templates/menu-options.php:190, rate-my-post/admin/templates/menu-options.php:190
+msgid "Vote has to be confirmed by clicking the rate button"
+msgstr ""
+
+#: admin/templates/menu-options.php:202, rate-my-post/admin/templates/menu-options.php:202
+msgid "Do not show average rating"
+msgstr ""
+
+#: admin/templates/menu-options.php:205, rate-my-post/admin/templates/menu-options.php:205
+msgid "Removes average rating and vote count information under the rating widget"
+msgstr ""
+
+#: admin/templates/menu-options.php:220, rate-my-post/admin/templates/menu-options.php:220
+msgid "AMP compatibility mode (BETA)"
+msgstr ""
+
+#: admin/templates/menu-options.php:223, rate-my-post/admin/templates/menu-options.php:223
+msgid "Adds a minimalistic rating and results widget on AMP pages. Check the %sdocumentation%s before enabling"
+msgstr ""
+
+#: admin/templates/menu-options.php:235, rate-my-post/admin/templates/menu-options.php:235
+msgid "Delete cookie on page load"
+msgstr ""
+
+#: admin/templates/menu-options.php:238, rate-my-post/admin/templates/menu-options.php:238
+msgid "Enable only while you are cutomizing the plugin"
+msgstr ""
+
+#: admin/templates/menu-options.php:246, rate-my-post/admin/templates/menu-options.php:246
+msgid "Type of structured data for rich snippets"
+msgstr ""
+
+#: admin/templates/menu-options.php:249, rate-my-post/admin/templates/menu-options.php:249
+msgid "Without structured data"
+msgstr ""
+
+#: admin/templates/menu-options.php:266, rate-my-post/admin/templates/menu-options.php:266
+msgid "For more information about structured data and rich snippets see the %sdocumentation%s"
+msgstr ""
+
+#: admin/templates/menu-options.php:270, rate-my-post/admin/templates/menu-options.php:270
+msgid "Exclude rating and result widget from"
+msgstr ""
+
+#: admin/templates/menu-options.php:280, rate-my-post/admin/templates/menu-options.php:280
+msgid "Insert comma separated post/page IDs"
+msgstr ""
+
+#: admin/templates/menu-options.php:281, rate-my-post/admin/templates/menu-options.php:281
+msgid "Read more"
+msgstr ""
+
+#: admin/templates/menu-options.php:285, rate-my-post/admin/templates/menu-options.php:285
+msgid "If post or page is rated X/5 stars or less, consider rating negative. X="
+msgstr ""
+
+#: admin/templates/menu-options.php:295, rate-my-post/admin/templates/menu-options.php:295
+msgid "Define what is a negative rating to use the feedback and social widget."
+msgstr ""
+
+#: admin/templates/menu-options.php:302, rate-my-post/admin/templates/menu-options.php:302
+msgid "Feedback Widget Settings"
+msgstr ""
+
+#: admin/templates/menu-options.php:316, rate-my-post/admin/templates/menu-options.php:316
+msgid "Show feedback widget if rating is negative"
+msgstr ""
+
+#: admin/templates/menu-options.php:319, rate-my-post/admin/templates/menu-options.php:319
+msgid "Encourage users to help you improve your posts. Only you can see the feedback. The feedback widget will be shown in case of a negative rating"
+msgstr ""
+
+#: admin/templates/menu-options.php:331, rate-my-post/admin/templates/menu-options.php:331
+msgid "Send me email whenever feedback is left"
+msgstr ""
+
+#: admin/templates/menu-options.php:334, rate-my-post/admin/templates/menu-options.php:334
+msgid "You will get an email whenever somebody leaves you private feedback"
+msgstr ""
+
+#: admin/templates/menu-options.php:344, rate-my-post/admin/templates/menu-options.php:344
+msgid "Social Widget Settings"
+msgstr ""
+
+#: admin/templates/menu-options.php:358, rate-my-post/admin/templates/menu-options.php:358
+msgid "Show social widget if rating is positive"
+msgstr ""
+
+#: admin/templates/menu-options.php:361, rate-my-post/admin/templates/menu-options.php:361
+msgid "Encourage users to follow you on social media. Insert links to your social media profiles below. The social widget will be shown in case of a positive rating"
+msgstr ""
+
+#: admin/templates/menu-options.php:373, rate-my-post/admin/templates/menu-options.php:373
+msgid "Show social share links"
+msgstr ""
+
+#: admin/templates/menu-options.php:376, rate-my-post/admin/templates/menu-options.php:376
+msgid "Enable this option if you want to show social share links instead of social follow links. Supported networks: Facebook, Pinterest, Twitter and Reddit"
+msgstr ""
+
+#: admin/templates/menu-options.php:383, rate-my-post/admin/templates/menu-options.php:383
+msgid "If you do not want an icon to be displayed, leave the field below empty!"
+msgstr ""
+
+#: admin/templates/menu-options.php:390, rate-my-post/admin/templates/menu-options.php:390
+msgid "Your Facebook Page URL"
+msgstr ""
+
+#: admin/templates/menu-options.php:401, rate-my-post/admin/templates/menu-options.php:401
+msgid "Your Pinterest Page URL"
+msgstr ""
+
+#: admin/templates/menu-options.php:413, rate-my-post/admin/templates/menu-options.php:413
+msgid "Your Youtube Page URL"
+msgstr ""
+
+#: admin/templates/menu-options.php:423, rate-my-post/admin/templates/menu-options.php:423
+msgid "Your Flickr Page URL"
+msgstr ""
+
+#: admin/templates/menu-options.php:435, rate-my-post/admin/templates/menu-options.php:435
+msgid "Your Instagram Page URL"
+msgstr ""
+
+#: admin/templates/menu-options.php:445, rate-my-post/admin/templates/menu-options.php:445
+msgid "Your Twitter Page URL"
+msgstr ""
+
+#: admin/templates/menu-options.php:457, rate-my-post/admin/templates/menu-options.php:457
+msgid "Your Linkedin Page URL"
+msgstr ""
+
+#: admin/templates/menu-options.php:472, rate-my-post/admin/templates/menu-options.php:472
+msgid "Custom Post Types"
+msgstr ""
+
+#: admin/templates/menu-options.php:476, rate-my-post/admin/templates/menu-options.php:476
+msgid "Add rating widget automatically to custom post types"
+msgstr ""
+
+#: admin/templates/menu-options.php:487, admin/templates/menu-options.php:508, rate-my-post/admin/templates/menu-options.php:487, rate-my-post/admin/templates/menu-options.php:508
+msgid "Insert comma separated post types. Registered custom post types"
+msgstr ""
+
+#: admin/templates/menu-options.php:498, rate-my-post/admin/templates/menu-options.php:498
+msgid "Add result widget automatically to custom post types"
+msgstr ""
+
+#: admin/templates/menu-options.php:522, rate-my-post/admin/templates/menu-options.php:522
+msgid "Archive Pages"
+msgstr ""
+
+#: admin/templates/menu-options.php:536, rate-my-post/admin/templates/menu-options.php:536
+msgid "Show ratings on archive pages"
+msgstr ""
+
+#: admin/templates/menu-options.php:539, rate-my-post/admin/templates/menu-options.php:539
+msgid "Ratings will be shown on archive pages (categories, tags, author pages etc.) next to the title"
+msgstr ""
+
+#: admin/templates/menu-options.php:548, rate-my-post/admin/templates/menu-options.php:548
+msgid "Advanced Settings"
+msgstr ""
+
+#: admin/templates/menu-options.php:562, rate-my-post/admin/templates/menu-options.php:562
+msgid "Multilingual website compatibility mode"
+msgstr ""
+
+#: admin/templates/menu-options.php:565, rate-my-post/admin/templates/menu-options.php:565
+msgid "If your website is available in multiple languages enable this option. You will not be able to customize strings in the customize section. Instead customize strings through your plugin for translations"
+msgstr ""
+
+#: admin/templates/menu-options.php:576, rate-my-post/admin/templates/menu-options.php:576
+msgid "AJAX load results"
+msgstr ""
+
+#: admin/templates/menu-options.php:579, rate-my-post/admin/templates/menu-options.php:579
+msgid "If you are utilizing page caching, enable this option. Not required if you use WP Super Cache, LiteSpeed Cache, WP Fastest Cache, WP Rocket or SG Optimizer"
+msgstr ""
+
+#: admin/templates/menu-options.php:594, rate-my-post/admin/templates/menu-options.php:594
+msgid "Delete all plugin data on uninstall"
+msgstr ""
+
+#: admin/templates/menu-options.php:597, rate-my-post/admin/templates/menu-options.php:597
+msgid "If enabled all plugin data (settings, customization, vote count, rating and feedback) will be deleted when you uninstall the plugin"
+msgstr ""
+
+#: admin/templates/menu-options.php:608, admin/templates/menu-options.php:619, rate-my-post/admin/templates/menu-options.php:608, rate-my-post/admin/templates/menu-options.php:619
+msgid "Save Settings"
+msgstr ""
+
+#: admin/templates/menu-options.php:612, rate-my-post/admin/templates/menu-options.php:612
+msgid "Reset Settings"
+msgstr ""
+
+#: admin/templates/menu-security.php:25, rate-my-post/admin/templates/menu-security.php:25
+msgid "Privileges"
+msgstr ""
+
+#: admin/templates/menu-security.php:29, rate-my-post/admin/templates/menu-security.php:29
+msgid "Ratings manipulation requires role of"
+msgstr ""
+
+#: admin/templates/menu-security.php:33, rate-my-post/admin/templates/menu-security.php:33
+msgid "Author"
+msgstr ""
+
+#: admin/templates/menu-security.php:36, rate-my-post/admin/templates/menu-security.php:36
+msgid "Editor"
+msgstr ""
+
+#: admin/templates/menu-security.php:39, rate-my-post/admin/templates/menu-security.php:39
+msgid "Admin"
+msgstr ""
+
+#: admin/templates/menu-security.php:43, rate-my-post/admin/templates/menu-security.php:43
+msgid "Select which role is required to manipulate ratings in the backend. Authors can only manipulate ratings of their own posts."
+msgstr ""
+
+#: admin/templates/menu-security.php:47, rate-my-post/admin/templates/menu-security.php:47
+msgid "Who can rate posts"
+msgstr ""
+
+#: admin/templates/menu-security.php:51, rate-my-post/admin/templates/menu-security.php:51
+msgid "Everybody"
+msgstr ""
+
+#: admin/templates/menu-security.php:54, rate-my-post/admin/templates/menu-security.php:54
+msgid "Logged in users"
+msgstr ""
+
+#: admin/templates/menu-security.php:58, rate-my-post/admin/templates/menu-security.php:58
+msgid "Select who can rate your posts. By default every visitor can rate posts."
+msgstr ""
+
+#: admin/templates/menu-security.php:64, rate-my-post/admin/templates/menu-security.php:64
+msgid "Tracking"
+msgstr ""
+
+#: admin/templates/menu-security.php:68, rate-my-post/admin/templates/menu-security.php:68
+msgid "Track IP addresses"
+msgstr ""
+
+#: admin/templates/menu-security.php:72, admin/templates/menu-security.php:87, admin/templates/menu-security.php:102, rate-my-post/admin/templates/menu-security.php:72, rate-my-post/admin/templates/menu-security.php:87, rate-my-post/admin/templates/menu-security.php:102
+msgid "No"
+msgstr ""
+
+#: admin/templates/menu-security.php:75, admin/templates/menu-security.php:90, admin/templates/menu-security.php:105, rate-my-post/admin/templates/menu-security.php:75, rate-my-post/admin/templates/menu-security.php:90, rate-my-post/admin/templates/menu-security.php:105
+msgid "Yes"
+msgstr ""
+
+#: admin/templates/menu-security.php:79, rate-my-post/admin/templates/menu-security.php:79
+msgid "Track IP addresses of users who rate your posts or leave you feedback! This feature is NOT COMPLIANT WITH GDPR!"
+msgstr ""
+
+#: admin/templates/menu-security.php:83, rate-my-post/admin/templates/menu-security.php:83
+msgid "Prevent double votes via IP"
+msgstr ""
+
+#: admin/templates/menu-security.php:94, rate-my-post/admin/templates/menu-security.php:94
+msgid "Prevent double votes by checking via IP if user already rated that post. This feature will only work if \"Track IP addresses\" is also enabled and is by default disabled for admins"
+msgstr ""
+
+#: admin/templates/menu-security.php:98, rate-my-post/admin/templates/menu-security.php:98
+msgid "Track users"
+msgstr ""
+
+#: admin/templates/menu-security.php:109, rate-my-post/admin/templates/menu-security.php:109
+msgid "This feature enables you to see who rated your posts and left you feedback!"
+msgstr ""
+
+#: admin/templates/menu-security.php:115, rate-my-post/admin/templates/menu-security.php:115
+msgid "Spam Protection - Google reCAPTCHA v3"
+msgstr ""
+
+#: admin/templates/menu-security.php:118, rate-my-post/admin/templates/menu-security.php:118
+msgid "The plugin supports Google reCAPTCHA v3 which verifies if an interaction is legitimate without any user interaction. You will need reCAPTCHA v3 site key and secret key to use this option. The service is free of charge. You can create keys on the %sGoogle reCAPTCHA website%s - choose the reCAPTCHA v3 type. ReCaptcha library adds a badge to your website with terms of use and privacy policy. You can hide it with custom css %s. However, note that you have to include a link to the terms of use and privacy policy according to the reCAPTCHA v3 Terms of Use."
+msgstr ""
+
+#: admin/templates/menu-security.php:122, rate-my-post/admin/templates/menu-security.php:122
+msgid "reCAPTCHA v3 Site Key"
+msgstr ""
+
+#: admin/templates/menu-security.php:132, rate-my-post/admin/templates/menu-security.php:132
+msgid "Insert Google reCAPTCHA v3 site key"
+msgstr ""
+
+#: admin/templates/menu-security.php:136, rate-my-post/admin/templates/menu-security.php:136
+msgid "reCAPTCHA v3 Secret Key"
+msgstr ""
+
+#: admin/templates/menu-security.php:146, rate-my-post/admin/templates/menu-security.php:146
+msgid "Insert Google reCAPTCHA v3 secret key"
+msgstr ""
+
+#: admin/templates/menu-security.php:160, rate-my-post/admin/templates/menu-security.php:160
+msgid "Enable reCAPTCHA v3"
+msgstr ""
+
+#: admin/templates/menu-security.php:163, rate-my-post/admin/templates/menu-security.php:163
+msgid "Automatically verifies if interactions are legitimate. Unlike the reCAPTCHA v2, it does not require any interaction from the visitor"
+msgstr ""
+
+#: admin/templates/menu-security.php:170, admin/templates/menu-security.php:177, rate-my-post/admin/templates/menu-security.php:170, rate-my-post/admin/templates/menu-security.php:177
+msgid "Save Security Options"
+msgstr ""
+
+#: admin/templates/menu.php:30, rate-my-post/admin/templates/menu.php:30
+msgid "Customize"
+msgstr ""
+
+#: admin/templates/menu.php:33, rate-my-post/admin/templates/menu.php:33
+msgid "Security"
+msgstr ""
+
+#: admin/templates/menu.php:39, rate-my-post/admin/templates/menu.php:39
+msgid "About"
+msgstr ""
+
+#: admin/templates/menu.php:42, rate-my-post/admin/templates/menu.php:42
+msgid "Pro Version"
+msgstr ""
+
+#: admin/templates/meta-box.php:31, rate-my-post/admin/templates/meta-box.php:31
+msgid "Number of Votes"
+msgstr ""
+
+#: admin/templates/meta-box.php:57, rate-my-post/admin/templates/meta-box.php:57
+msgid "Update Rating"
+msgstr ""
+
+#: admin/templates/meta-box.php:61, rate-my-post/admin/templates/meta-box.php:61
+msgid "Reset Rating"
+msgstr ""
+
+#: admin/templates/meta-box.php:67, rate-my-post/admin/templates/meta-box.php:67
+msgid "Average rating will be rounded to the nearest mathematically valid average rating!"
+msgstr ""
+
+#: admin/templates/meta-box.php:75, admin/templates/meta-box.php:105, admin/templates/stats.php:35, rate-my-post/admin/templates/meta-box.php:75, rate-my-post/admin/templates/meta-box.php:105, rate-my-post/admin/templates/stats.php:35
+msgid "Feedback"
+msgstr ""
+
+#: admin/templates/meta-box.php:90, rate-my-post/admin/templates/meta-box.php:90
+msgid "Rating ID to which the feedback is associated. You can find details about the action in the analytics section."
+msgstr ""
+
+#: admin/templates/meta-box.php:108, admin/templates/meta-box.php:131, rate-my-post/admin/templates/meta-box.php:108, rate-my-post/admin/templates/meta-box.php:131
+msgid "Delete"
+msgstr ""
+
+#: admin/templates/meta-box.php:139, rate-my-post/admin/templates/meta-box.php:139
+msgid "Delete Feedback"
+msgstr ""
+
+#: admin/templates/meta-box.php:144, rate-my-post/admin/templates/meta-box.php:144
+msgid "No feedback so far!"
+msgstr ""
+
+#: admin/templates/pro-version.php:22, rate-my-post/admin/templates/pro-version.php:22
+msgid "Rate my Post Pro"
+msgstr ""
+
+#: admin/templates/pro-version.php:27, rate-my-post/admin/templates/pro-version.php:27
+msgid "Rate my Post Pro is under development and will include the following features:"
+msgstr ""
+
+#: admin/templates/pro-version.php:31, rate-my-post/admin/templates/pro-version.php:31
+msgid "Add structured data for rich snippets with not only the required fields but also the optional fields."
+msgstr ""
+
+#: admin/templates/pro-version.php:34, rate-my-post/admin/templates/pro-version.php:34
+msgid "Create custom rating widgets which work independently of posts. "
+msgstr ""
+
+#: admin/templates/pro-version.php:37, rate-my-post/admin/templates/pro-version.php:37
+msgid "Each custom widget is completely customizable, including structured data for rich snippets."
+msgstr ""
+
+#: admin/templates/pro-version.php:40, rate-my-post/admin/templates/pro-version.php:40
+msgid "Add rating widgets to archives, taxonomies etc."
+msgstr ""
+
+#: admin/templates/pro-version.php:43, rate-my-post/admin/templates/pro-version.php:43
+msgid "Shortcode generator."
+msgstr ""
+
+#: admin/templates/pro-version.php:46, rate-my-post/admin/templates/pro-version.php:46
+msgid "Read-only ratings with structured data for reviews (review rating)."
+msgstr ""
+
+#: admin/templates/pro-version.php:49, rate-my-post/admin/templates/pro-version.php:49
+msgid "Premium support and more..."
+msgstr ""
+
+#: admin/templates/pro-version.php:54, rate-my-post/admin/templates/pro-version.php:54
+msgid "Read More"
+msgstr ""
+
+#: admin/templates/stats.php:22, rate-my-post/admin/templates/stats.php:22
+msgid "Rate my Post Stats"
+msgstr ""
+
+#: admin/templates/stats.php:26, rate-my-post/admin/templates/stats.php:26
+msgid "Displaying only rated posts and pages! To see feedback or change ratings click on a post/page title below and find the Rate my Post meta box at the bottom."
+msgstr ""
+
+#: admin/templates/stats.php:33, rate-my-post/admin/templates/stats.php:33
+msgid "Votes"
+msgstr ""
+
+#: common/class-rate-my-post-settings.php:110, public/class-rate-my-post-public.php:1461, rate-my-post/common/class-rate-my-post-settings.php:110, rate-my-post/public/class-rate-my-post-public.php:1461
+msgid "How useful was this post?"
+msgstr ""
+
+#: common/class-rate-my-post-settings.php:111, public/class-rate-my-post-public.php:1462, rate-my-post/common/class-rate-my-post-settings.php:111, rate-my-post/public/class-rate-my-post-public.php:1462
+msgid "Click on a star to rate it!"
+msgstr ""
+
+#: common/class-rate-my-post-settings.php:112, public/class-rate-my-post-public.php:1463, rate-my-post/common/class-rate-my-post-settings.php:112, rate-my-post/public/class-rate-my-post-public.php:1463
+msgid "Average rating"
+msgstr ""
+
+#: common/class-rate-my-post-settings.php:113, public/class-rate-my-post-public.php:1464, rate-my-post/common/class-rate-my-post-settings.php:113, rate-my-post/public/class-rate-my-post-public.php:1464
+msgid "Vote count:"
+msgstr ""
+
+#: common/class-rate-my-post-settings.php:114, public/class-rate-my-post-public.php:1465, rate-my-post/common/class-rate-my-post-settings.php:114, rate-my-post/public/class-rate-my-post-public.php:1465
+msgid "You already voted! This vote will not be counted!"
+msgstr ""
+
+#: common/class-rate-my-post-settings.php:115, public/class-rate-my-post-public.php:1466, rate-my-post/common/class-rate-my-post-settings.php:115, rate-my-post/public/class-rate-my-post-public.php:1466
+msgid "No votes so far! Be the first to rate this post."
+msgstr ""
+
+#: common/class-rate-my-post-settings.php:116, public/class-rate-my-post-public.php:1467, rate-my-post/common/class-rate-my-post-settings.php:116, rate-my-post/public/class-rate-my-post-public.php:1467
+msgid "Thank you for rating this post!"
+msgstr ""
+
+#: common/class-rate-my-post-settings.php:117, public/class-rate-my-post-public.php:1468, rate-my-post/common/class-rate-my-post-settings.php:117, rate-my-post/public/class-rate-my-post-public.php:1468
+msgid "Not at all useful"
+msgstr ""
+
+#: common/class-rate-my-post-settings.php:118, public/class-rate-my-post-public.php:1469, rate-my-post/common/class-rate-my-post-settings.php:118, rate-my-post/public/class-rate-my-post-public.php:1469
+msgid "Somewhat useful"
+msgstr ""
+
+#: common/class-rate-my-post-settings.php:119, public/class-rate-my-post-public.php:1470, rate-my-post/common/class-rate-my-post-settings.php:119, rate-my-post/public/class-rate-my-post-public.php:1470
+msgid "Useful"
+msgstr ""
+
+#: common/class-rate-my-post-settings.php:120, public/class-rate-my-post-public.php:1471, rate-my-post/common/class-rate-my-post-settings.php:120, rate-my-post/public/class-rate-my-post-public.php:1471
+msgid "Fairly useful"
+msgstr ""
+
+#: common/class-rate-my-post-settings.php:121, public/class-rate-my-post-public.php:1472, rate-my-post/common/class-rate-my-post-settings.php:121, rate-my-post/public/class-rate-my-post-public.php:1472
+msgid "Very useful"
+msgstr ""
+
+#: common/class-rate-my-post-settings.php:122, public/class-rate-my-post-public.php:1473, rate-my-post/common/class-rate-my-post-settings.php:122, rate-my-post/public/class-rate-my-post-public.php:1473
+msgid "As you found this post useful..."
+msgstr ""
+
+#: common/class-rate-my-post-settings.php:123, public/class-rate-my-post-public.php:1474, rate-my-post/common/class-rate-my-post-settings.php:123, rate-my-post/public/class-rate-my-post-public.php:1474
+msgid "Follow us on social media!"
+msgstr ""
+
+#: common/class-rate-my-post-settings.php:124, public/class-rate-my-post-public.php:1475, rate-my-post/common/class-rate-my-post-settings.php:124, rate-my-post/public/class-rate-my-post-public.php:1475
+msgid "We are sorry that this post was not useful for you!"
+msgstr ""
+
+#: common/class-rate-my-post-settings.php:125, public/class-rate-my-post-public.php:1476, rate-my-post/common/class-rate-my-post-settings.php:125, rate-my-post/public/class-rate-my-post-public.php:1476
+msgid "Let us improve this post!"
+msgstr ""
+
+#: common/class-rate-my-post-settings.php:126, public/class-rate-my-post-public.php:1477, rate-my-post/common/class-rate-my-post-settings.php:126, rate-my-post/public/class-rate-my-post-public.php:1477
+msgid "Tell us how we can improve this post?"
+msgstr ""
+
+#: common/class-rate-my-post-settings.php:127, public/class-rate-my-post-public.php:1478, rate-my-post/common/class-rate-my-post-settings.php:127, rate-my-post/public/class-rate-my-post-public.php:1478
+msgid "Thanks for your feedback!"
+msgstr ""
+
+#: common/class-rate-my-post-settings.php:128, public/class-rate-my-post-public.php:1479, rate-my-post/common/class-rate-my-post-settings.php:128, rate-my-post/public/class-rate-my-post-public.php:1479
+msgid "Submit Feedback"
+msgstr ""
+
+#: common/class-rate-my-post-settings.php:135, public/class-rate-my-post-public.php:1062, public/class-rate-my-post-public.php:1480, rate-my-post/common/class-rate-my-post-settings.php:135, rate-my-post/public/class-rate-my-post-public.php:1062, rate-my-post/public/class-rate-my-post-public.php:1480
+msgid "Please insert your feedback in the box above!"
+msgstr ""
+
+#: common/class-rate-my-post-settings.php:147, public/class-rate-my-post-public.php:1481, rate-my-post/common/class-rate-my-post-settings.php:147, rate-my-post/public/class-rate-my-post-public.php:1481
+msgid "Submit Rating"
+msgstr ""
+
+#: public/class-rate-my-post-public.php:193, public/class-rate-my-post-public.php:1045, rate-my-post/public/class-rate-my-post-public.php:193, rate-my-post/public/class-rate-my-post-public.php:1045
+msgid "You cannot rate a web page without an id!"
+msgstr ""
+
+#: public/class-rate-my-post-public.php:576, rate-my-post/public/class-rate-my-post-public.php:576
+msgid "Somebody rated"
+msgstr ""
+
+#: public/class-rate-my-post-public.php:578, rate-my-post/public/class-rate-my-post-public.php:578
+msgid "was rated"
+msgstr ""
+
+#: public/class-rate-my-post-public.php:579, rate-my-post/public/class-rate-my-post-public.php:579
+msgid "and now has an average rating of"
+msgstr ""
+
+#: public/class-rate-my-post-public.php:580, rate-my-post/public/class-rate-my-post-public.php:580
+msgid "based on"
+msgstr ""
+
+#: public/class-rate-my-post-public.php:581, rate-my-post/public/class-rate-my-post-public.php:581
+msgid "vote(s)"
+msgstr ""
+
+#: public/class-rate-my-post-public.php:582, rate-my-post/public/class-rate-my-post-public.php:582
+msgid "See the post: "
+msgstr ""
+
+#: public/class-rate-my-post-public.php:611, rate-my-post/public/class-rate-my-post-public.php:611
+msgid "Somebody left feedback on"
+msgstr ""
+
+#: public/class-rate-my-post-public.php:612, rate-my-post/public/class-rate-my-post-public.php:612
+msgid "Feedback on"
+msgstr ""
+
+#: public/class-rate-my-post-public.php:898, public/class-rate-my-post-public.php:902, rate-my-post/public/class-rate-my-post-public.php:898, rate-my-post/public/class-rate-my-post-public.php:902
+msgid "Invalid Token"
+msgstr ""
+
+#: public/class-rate-my-post-public.php:926, rate-my-post/public/class-rate-my-post-public.php:926
+msgid "Wrong reCAPTCHA keys"
+msgstr ""
+
+#: public/class-rate-my-post-public.php:931, rate-my-post/public/class-rate-my-post-public.php:931
+msgid "Blocked by reCAPTCHA"
+msgstr ""
+
+#: public/class-rate-my-post-public.php:950, rate-my-post/public/class-rate-my-post-public.php:950
+msgid "You need to be logged in to rate!"
+msgstr ""
+
+#: public/class-rate-my-post-public.php:1049, rate-my-post/public/class-rate-my-post-public.php:1049
+msgid "No rating submitted!"
+msgstr ""
+
+#: public/templates/amp-rating-widget.php:114, rate-my-post/public/templates/amp-rating-widget.php:114
+msgid "Processing your rating..."
+msgstr ""
+
+#: public/templates/amp-rating-widget.php:132, rate-my-post/public/templates/amp-rating-widget.php:132
+msgid "There was an error rating this post!"
+msgstr ""
+
+#: rate-my-post/widgets/rate-my-post-top-rated-widget.php:19, widgets/rate-my-post-top-rated-widget.php:19
+msgid "Displays top rated posts from Rate my Post plugin."
+msgstr ""
+
+#: rate-my-post/widgets/rate-my-post-top-rated-widget.php:91, widgets/rate-my-post-top-rated-widget.php:91
+msgid "Number of posts to show:"
+msgstr ""
+
+#: rate-my-post/widgets/rate-my-post-top-rated-widget.php:96, widgets/rate-my-post-top-rated-widget.php:96
+msgid "Minimum average rating required:"
+msgstr ""
+
+#: rate-my-post/widgets/rate-my-post-top-rated-widget.php:101, widgets/rate-my-post-top-rated-widget.php:101
+msgid "Minimum votes required:"
+msgstr ""
+
+#: rate-my-post/widgets/rate-my-post-top-rated-widget.php:107, widgets/rate-my-post-top-rated-widget.php:107
+msgid "Show featured image"
+msgstr ""
+
+#: rate-my-post/widgets/rate-my-post-top-rated-widget.php:112, widgets/rate-my-post-top-rated-widget.php:112
+msgid "Show star rating"
+msgstr ""

@@ -1,0 +1,109 @@
+[10-Mar-2020 15:59:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_nonde_field() in /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-content/plugins/metabox/metabox.php:39
+Stack trace:
+#0 /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-admin/includes/template.php(1343): movie_build_meta_box(Object(WP_Post), Array)
+#1 /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-admin/includes/post.php(2263): do_meta_boxes(Object(WP_Screen), 'side', Object(WP_Post))
+#2 /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-admin/edit-form-blocks.php(409): the_block_editor_meta_boxes()
+#3 /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-admin/post.php(179): include('/Users/ellaschw...')
+#4 {main}
+  thrown in /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-content/plugins/metabox/metabox.php on line 39
+[10-Mar-2020 15:59:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_nonde_field() in /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-content/plugins/metabox/metabox.php:39
+Stack trace:
+#0 /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-admin/includes/template.php(1343): movie_build_meta_box(Object(WP_Post), Array)
+#1 /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-admin/includes/post.php(2263): do_meta_boxes(Object(WP_Screen), 'side', Object(WP_Post))
+#2 /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-admin/edit-form-blocks.php(409): the_block_editor_meta_boxes()
+#3 /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-admin/post.php(179): include('/Users/ellaschw...')
+#4 {main}
+  thrown in /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-content/plugins/metabox/metabox.php on line 39
+[10-Mar-2020 16:00:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_nonde_field() in /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-content/plugins/metabox/metabox.php:39
+Stack trace:
+#0 /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-admin/includes/template.php(1343): movie_build_meta_box(Object(WP_Post), Array)
+#1 /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-admin/includes/post.php(2263): do_meta_boxes(Object(WP_Screen), 'side', Object(WP_Post))
+#2 /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-admin/edit-form-blocks.php(409): the_block_editor_meta_boxes()
+#3 /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-admin/post.php(179): include('/Users/ellaschw...')
+#4 {main}
+  thrown in /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-content/plugins/metabox/metabox.php on line 39
+[11-Mar-2020 11:46:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-content/plugins/metabox/metabox.php on line 119
+[11-Mar-2020 11:47:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-content/plugins/metabox/metabox.php on line 119
+[11-Mar-2020 11:47:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-content/plugins/metabox/metabox.php on line 119
+[11-Mar-2020 13:34:43 UTC] PHP Warning:  Use of undefined constant yasr_top_ten_highest_rated - assumed 'yasr_top_ten_highest_rated' (this will throw an Error in a future version of PHP) in /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-content/themes/areview-child/index.php on line 3
+[11-Mar-2020 13:34:43 UTC] PHP Stack trace:
+[11-Mar-2020 13:34:43 UTC] PHP   1. {main}() /Users/ellaschwarz/Documents/CMS/moviebee/app/public/index.php:0
+[11-Mar-2020 13:34:43 UTC] PHP   2. require() /Users/ellaschwarz/Documents/CMS/moviebee/app/public/index.php:17
+[11-Mar-2020 13:34:43 UTC] PHP   3. require_once() /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-blog-header.php:19
+[11-Mar-2020 13:34:43 UTC] PHP   4. include() /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-includes/template-loader.php:98
+[11-Mar-2020 13:34:43 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-includes/shortcodes.php on line 180
+[11-Mar-2020 13:34:43 UTC] PHP Stack trace:
+[11-Mar-2020 13:34:43 UTC] PHP   1. {main}() /Users/ellaschwarz/Documents/CMS/moviebee/app/public/index.php:0
+[11-Mar-2020 13:34:43 UTC] PHP   2. require() /Users/ellaschwarz/Documents/CMS/moviebee/app/public/index.php:17
+[11-Mar-2020 13:34:43 UTC] PHP   3. require_once() /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-blog-header.php:19
+[11-Mar-2020 13:34:43 UTC] PHP   4. include() /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-includes/template-loader.php:98
+[11-Mar-2020 13:34:43 UTC] PHP   5. do_shortcode() /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-content/themes/areview-child/index.php:3
+[11-Mar-2020 13:34:43 UTC] PHP   6. strpos() /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-includes/shortcodes.php:180
+[11-Mar-2020 13:34:43 UTC] PHP Warning:  preg_match_all() expects parameter 2 to be string, array given in /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-includes/shortcodes.php on line 189
+[11-Mar-2020 13:34:43 UTC] PHP Stack trace:
+[11-Mar-2020 13:34:43 UTC] PHP   1. {main}() /Users/ellaschwarz/Documents/CMS/moviebee/app/public/index.php:0
+[11-Mar-2020 13:34:43 UTC] PHP   2. require() /Users/ellaschwarz/Documents/CMS/moviebee/app/public/index.php:17
+[11-Mar-2020 13:34:43 UTC] PHP   3. require_once() /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-blog-header.php:19
+[11-Mar-2020 13:34:43 UTC] PHP   4. include() /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-includes/template-loader.php:98
+[11-Mar-2020 13:34:43 UTC] PHP   5. do_shortcode() /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-content/themes/areview-child/index.php:3
+[11-Mar-2020 13:34:43 UTC] PHP   6. preg_match_all() /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-includes/shortcodes.php:189
+[11-Mar-2020 13:34:43 UTC] PHP Warning:  array_intersect(): Expected parameter 2 to be an array, null given in /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-includes/shortcodes.php on line 190
+[11-Mar-2020 13:34:43 UTC] PHP Stack trace:
+[11-Mar-2020 13:34:43 UTC] PHP   1. {main}() /Users/ellaschwarz/Documents/CMS/moviebee/app/public/index.php:0
+[11-Mar-2020 13:34:43 UTC] PHP   2. require() /Users/ellaschwarz/Documents/CMS/moviebee/app/public/index.php:17
+[11-Mar-2020 13:34:43 UTC] PHP   3. require_once() /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-blog-header.php:19
+[11-Mar-2020 13:34:43 UTC] PHP   4. include() /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-includes/template-loader.php:98
+[11-Mar-2020 13:34:43 UTC] PHP   5. do_shortcode() /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-content/themes/areview-child/index.php:3
+[11-Mar-2020 13:34:43 UTC] PHP   6. array_intersect() /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-includes/shortcodes.php:190
+[11-Mar-2020 13:51:13 UTC] PHP Parse error:  syntax error, unexpected '<', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-content/themes/areview-child/index.php on line 35
+[12-Mar-2020 09:45:00 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-includes/post-template.php on line 316
+[12-Mar-2020 09:45:00 UTC] PHP Stack trace:
+[12-Mar-2020 09:45:00 UTC] PHP   1. {main}() /Users/ellaschwarz/Documents/CMS/moviebee/app/public/index.php:0
+[12-Mar-2020 09:45:00 UTC] PHP   2. require() /Users/ellaschwarz/Documents/CMS/moviebee/app/public/index.php:17
+[12-Mar-2020 09:45:00 UTC] PHP   3. require_once() /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-blog-header.php:19
+[12-Mar-2020 09:45:00 UTC] PHP   4. include() /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-includes/template-loader.php:98
+[12-Mar-2020 09:45:00 UTC] PHP   5. the_content() /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-content/themes/areview-child/single-movies.php:24
+[12-Mar-2020 09:45:00 UTC] PHP   6. get_the_content() /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-includes/post-template.php:244
+[12-Mar-2020 14:33:47 UTC] PHP Fatal error:  Uncaught ParseError: syntax error, unexpected '<', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-content/themes/areview-child/single-movies.php:47
+Stack trace:
+#0 /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-blog-header.php(19): require_once()
+#1 /Users/ellaschwarz/Documents/CMS/moviebee/app/public/index.php(17): require('/Users/ellaschw...')
+#2 {main}
+
+Next Exception: syntax error, unexpected '<', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-content/plugins/query-monitor/collectors/php_errors.php:82
+Stack trace:
+#0 [internal function]: QM_Collector_PHP_Errors->exception_handler(Object(ParseError))
+#1 {main}
+  thrown in /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-content/plugins/query-monitor/collectors/php_errors.php on line 82
+[12-Mar-2020 14:48:12 UTC] PHP Catchable fatal error:  Object of class WP_Query could not be converted to string in /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-content/themes/areview-child/index.php on line 39
+[12-Mar-2020 14:48:12 UTC] PHP Stack trace:
+[12-Mar-2020 14:48:12 UTC] PHP   1. {main}() /Users/ellaschwarz/Documents/CMS/moviebee/app/public/index.php:0
+[12-Mar-2020 14:48:12 UTC] PHP   2. require() /Users/ellaschwarz/Documents/CMS/moviebee/app/public/index.php:17
+[12-Mar-2020 14:48:12 UTC] PHP   3. require_once() /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-blog-header.php:19
+[12-Mar-2020 14:48:12 UTC] PHP   4. include() /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-includes/template-loader.php:98
+[12-Mar-2020 15:14:35 UTC] PHP Fatal error:  Cannot redeclare wporg_save_postdata() (previously declared in /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-content/plugins/metabox/metabox.php:42) in /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-content/plugins/post-type-export/post-type-export.php on line 80
+[12-Mar-2020 15:14:35 UTC] PHP Stack trace:
+[12-Mar-2020 15:14:35 UTC] PHP   1. {main}() /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-admin/admin-ajax.php:0
+[12-Mar-2020 15:14:35 UTC] PHP   2. require_once() /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-admin/admin-ajax.php:22
+[12-Mar-2020 15:14:35 UTC] PHP   3. require_once() /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-load.php:37
+[12-Mar-2020 15:14:35 UTC] PHP   4. require_once() /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-config.php:77
+[12-Mar-2020 15:14:39 UTC] PHP Fatal error:  Cannot redeclare wporg_save_postdata() (previously declared in /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-content/plugins/metabox/metabox.php:42) in /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-content/plugins/post-type-export/post-type-export.php on line 80
+[12-Mar-2020 15:14:39 UTC] PHP Stack trace:
+[12-Mar-2020 15:14:39 UTC] PHP   1. {main}() /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-admin/admin-ajax.php:0
+[12-Mar-2020 15:14:39 UTC] PHP   2. require_once() /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-admin/admin-ajax.php:22
+[12-Mar-2020 15:14:39 UTC] PHP   3. require_once() /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-load.php:37
+[12-Mar-2020 15:14:39 UTC] PHP   4. require_once() /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-config.php:77
+[12-Mar-2020 15:14:39 UTC] PHP Fatal error:  Cannot redeclare wporg_save_postdata() (previously declared in /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-content/plugins/metabox/metabox.php:42) in /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-content/plugins/post-type-export/post-type-export.php on line 80
+[12-Mar-2020 15:14:39 UTC] PHP Stack trace:
+[12-Mar-2020 15:14:39 UTC] PHP   1. {main}() /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-admin/plugins.php:0
+[12-Mar-2020 15:14:39 UTC] PHP   2. require_once() /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-admin/plugins.php:10
+[12-Mar-2020 15:14:39 UTC] PHP   3. require_once() /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-admin/admin.php:34
+[12-Mar-2020 15:14:39 UTC] PHP   4. require_once() /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-load.php:37
+[12-Mar-2020 15:14:39 UTC] PHP   5. require_once() /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-config.php:77
+[12-Mar-2020 15:21:26 UTC] PHP Fatal error:  Cannot redeclare wporg_save_postdata() (previously declared in /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-content/plugins/metabox/metabox.php:42) in /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-content/plugins/post-type-export/post-type-export.php on line 80
+[12-Mar-2020 15:21:26 UTC] PHP Stack trace:
+[12-Mar-2020 15:21:26 UTC] PHP   1. {main}() /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-admin/index.php:0
+[12-Mar-2020 15:21:26 UTC] PHP   2. require_once() /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-admin/index.php:10
+[12-Mar-2020 15:21:26 UTC] PHP   3. require_once() /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-admin/admin.php:34
+[12-Mar-2020 15:21:26 UTC] PHP   4. require_once() /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-load.php:37
+[12-Mar-2020 15:21:26 UTC] PHP   5. require_once() /Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-config.php:77

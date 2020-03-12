@@ -1,0 +1,1 @@
+/Users/ellaschwarz/Documents/CMS/moviebee/app/public/wp-content/plugins/query-monitor/wp-content/db.php
