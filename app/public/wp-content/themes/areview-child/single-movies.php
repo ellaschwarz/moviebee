@@ -5,16 +5,17 @@
  * @package aReview
  */
 
-get_header(); ?>
+get_header();
 
-	<div id="primary" class="content-area">
-		<main id="main" class="site-main" role="main">
+?>
 
-        <?php while ( have_posts() ) : the_post(); 
+<div id="primary" class="content-area">
+    <main id="main" class="site-main" role="main">
+
+    <?php while (have_posts()) :
+    the_post(); 
         
-        $post_id = get_post_meta(get_the_ID(), 'post_id', true);
-        $realease_year = get_post_meta(get_the_ID(), 'realease_year', true);
-        $actor = get_post_meta(get_the_ID(), 'actors', true);
+
 
 $args = [
     'post__in' => $post_id,
@@ -31,19 +32,12 @@ if ($movie -> have_posts()) {
     wp_reset_postdata();
 } 
 
-echo '<h1 class="movie_title"> ' . get_the_title() . '</h1>';
-echo '<h2 class="realease_year"> ' . $realease_year . '</h2>';
-?>
-<div class="main_container">
-<div class="content_container">
-<?php
-echo '<h5 class="object_content"> ' . $actor . '</h5>';
 ?>
 
 
 			<?php if ( get_theme_mod('review_type') =='none' || get_theme_mod('review_type') =='' ) : ?>
 
-				<?php get_template_part( 'content', 'single' ); ?>
+			
 
       </table>
      </div> <!-- info_container -->
@@ -52,8 +46,8 @@ echo '<h5 class="object_content"> ' . $actor . '</h5>';
 			<?php else : ?>
 
 				<?php $review_type = get_theme_mod('review_type'); ?>
-
-				<?php get_template_part( 'reviews/content', $review_type ); ?>				
+				<?php get_template_part( 'template-parts/single-template' ); ?>
+						
 
 			<?php endif; ?>
 

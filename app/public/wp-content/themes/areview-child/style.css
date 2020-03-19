@@ -8,20 +8,31 @@
     background: black;
 }
 
+.space{
+    height: 60px;
+}
+
+h1 {
+    margin-bottom: 50px; 
+    text-transform: capitalize;
+}
+
 .card {
 
-    height: 340px;
+    height: 306px;
     position: relative;
     width: 65%;
     /* margin: auto; */
-    margin-bottom: 5px;
+    margin-bottom: 15px;
     display: grid;
     grid-template-columns: 1fr 1fr;
-    box-shadow: 3px 3px 3px rgba(92, 91, 91, 0.6);
+    background-color: #1A1A1A;
+    opacity: 0.7;
+    border-radius: 5px;
 }
 
 .card:hover {
-    box-shadow: 0 0 8px rgba(0, 0, 0, 0.6);
+    box-shadow: 0 0 8px rgba(255, 255, 255, 0.6);
 
 }
 
@@ -39,3 +50,45 @@
     grid-column: 2/3;
 
 }
+
+.fa-star{
+    color: rgb(255, 208, 0);
+}
+
+.fa-imdb{
+    font-size: 34px;
+    color: rgb(255, 208, 0);
+    float: right;
+    margin-right: 10%; 
+}
+
+.search-field {
+    color: black;
+}
+
+article {
+    background-color: #1A1A1A;
+    width: 94%;
+}
+
+#photo_container{
+    width:100%; /*container-width*/ 
+    overflow:hidden; /*hide bounds of image */
+    margin:0;   /*reset margin of figure tag*/
+}
+
+#photo_container .single-thumb {
+    display:block; /*remove inline-block spaces*/
+    width:100%; /*make image streatch*/
+    margin:-21.875% 0;
+}
+
+header, .info_container, .entry-content {
+    padding-left: 5%; 
+    padding-right: 5%; 
+}
+
+.entry-title{
+    padding-top: 20px; 
+}
+

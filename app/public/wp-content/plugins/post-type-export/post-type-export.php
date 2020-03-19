@@ -2,7 +2,7 @@
 
 /**
  *  Plugin name:    Custom Post Type & Metabox Export 
- *  Description:    This is a plugin for the custom post type Movies and its metaboxes.
+ *  Description:    This is a plugin for the custom post type Movies and its metaboxes. It also collects imdb-data if imdb-ID exists.
  *  Author:         Ella Schwarz
  *  Version:        1.0
  *  Text Domain:    post-type-export
@@ -105,9 +105,56 @@ function wporg_save_postdata( $post_id ) {
 add_action( 'save_post', 'wporg_save_postdata' );
 
 
-// function get_imdb_data(){
-//     if (!empty(get_post_meta(get_the_ID(), '_imdb_field', true))) {
-//         $request = wp_remote_get('http://www.omdbapi.com/?i=tt3794354&plot=full');
-//     }
+function update_movie($post)
+{
+	if (!empty(get_post_meta(get_the_ID(), '_imdb_field', true))) {
+	$value_imdb = get_post_meta(get_the_ID(), '_imdb_field', true);
+	//echo $value_imdb;
 
-// }
+	$api = 'http://www.omdbapi.com/?i=' . $value_imdb . '&apikey=7fd34e68';
+	
+	$response = wp_remote_get(esc_url_raw($api));
+
+	$movie_data = json_decode( wp_remote_retrieve_body($response), true);
+
+	foreach($movie_data as $movie_post){
+		
+		$args = [
+			'post_type' => 'movies',
+			'meta_query' => [
+				[
+				'key' => '_imdb_field',
+				'value' => $movie_data['imdbID']
+				]
+			]
+		];
+
+		$query = new WP_Query($args);
+		$existing_post = false;
+
+		if($query->have_posts()) {
+			$query->the_post();
+			$existing_post = get_the_ID();
+
+			echo "Will update post $existing_post <br>";
+
+			$post_id = wp_update_post(
+				[
+					'ID' => $existing_post,
+					'post_title' => $movie_data['Title'],
+					'post_content' => $movie_data['Plot']
+				]
+				);
+		} else {
+			echo "No post found";
+		};
+
+		update_post_meta($post_id, '_imdb_field', $movie_data['imdbID']);
+		update_post_meta($post_id, 'content', $movie_data['Plot']);
+		update_post_meta($post_id, 'title', $movie_data['Title']);
+	}
+	} 
+};
+
+add_action('save_post', 'update_movie');
+

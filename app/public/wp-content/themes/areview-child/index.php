@@ -14,7 +14,14 @@ get_header();
 
 <?php
 
-echo do_shortcode('[recent_post_carousel show_read_more="false" show_author=false post_type="movies" design="design-1" limit="9" show_date="false" slides_to_show="3"]');
+echo do_shortcode('[recent_post_carousel show_read_more="false" show_content=false show_author=false post_type="movies" design="design-1" limit="9" show_date="false" slides_to_show="3"]');
+
+?>
+
+<div class="space"></div>
+
+<?php 
+
 get_sidebar();
 $args = [
     'post_type' => 'movies',
@@ -33,22 +40,7 @@ $args = [
 		<?php if ( $movie -> have_posts() ) : ?>
 			<?php while ( $movie -> have_posts() ) : $movie -> the_post(); ?>
 
- <div class="card">
- <div class="thumbnail">
- <a href="<?php the_permalink(); ?>"><?php the_post_thumbnail(array(512, 340)); ?></a>
- </div>
- <div class="info">
- <h3><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a> </h3>
- <?php echo get_post_meta(get_the_ID(), 'realease_year', true); ?>
-
- <?php if (!empty(get_post_meta(get_the_ID(), '_imdb_field', true))) { ?>
-    <i class="fab fa-imdb"></i>
- <?php } ?>
-
- </div>
-
-
- </div>
+			<?php get_template_part( 'template-parts/card-template' ); ?>
 
 			<?php endwhile;
             wp_reset_postdata(); ?>
